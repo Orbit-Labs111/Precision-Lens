@@ -1,0 +1,6 @@
+{
+  "name": "Image Magnifier",
+  "description": "Interactive image magnifier canvas component with smooth lens zoom and customizable controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
